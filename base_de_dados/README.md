@@ -91,6 +91,6 @@ Objetos:
 
 |Diagrama do schema gld|
 |-|
-|![image](https://github.com/maxabelardo/DBActiveDirectory/blob/main/Imagens/diagrama_gld.png?raw=true)|
+|![image](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/Imagens/diagrama_gld.png?raw=true)|
 
 
