@@ -2,7 +2,7 @@
 
 Hoje já existe várias ferramentas que auxiliam o administrador do Active Directory em sua gestão e no desenvolvimento de relatórios ou gráficos, porém os melhores softwares são pagos o que para muitas empresas é o principal problema. Este projeto tem o objetivo de ajudar aqueles que gostariam de ter as  informações do seu AD se ter que ficar rodando script, criando planilha, cruzando dados em Excel, toda vez que vão montando relatórios do seu AD, ou so estão querendo  aprender a automatizar a extração e montagem dos relatórios do Active Directory.
 
-* ![image](https://github.com/j-a-vicente/Automatizando_a_extra-ao_Active_Directory_relatorios/blob/main/Imagens/pwb_user.PNG?raw=true)
+* ![image](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/Imagens/pwb_user.PNG?raw=true)
 
 Softwares que seram utilizados neste projeto:
 |Software |Descrição|
@@ -52,8 +52,8 @@ Softwares que seram utilizados neste projeto:
 
 ## A execução do projeto será divido nos tópicos  abaixo:
 
-+ [Desenvolvimento da base de dados.](https://github.com/j-a-vicente/Automatizando_a_extra-ao_Active_Directory_relatorios/blob/main/base_de_dados/README.md)
-+ [Desenvolvimento dos scripts de extração em PowerShell.](https://github.com/j-a-vicente/Automatizando_a_extra-ao_Active_Directory_relatorios/blob/main/script_extracao/README.md)
-+ [Executar o tratamento dos dados.](https://github.com/j-a-vicente/Automatizando_a_extra-ao_Active_Directory_relatorios/blob/main/tratamento_de_dados/README.md)
-+ [Automatizar a extração dos dados utilizando o MS SQL Agent.](https://github.com/j-a-vicente/Automatizando_a_extra-ao_Active_Directory_relatorios/blob/main/automatizar_extra/README.md)
-+ [Desenvolvimento dos painéis no Power BI Desktop.](https://github.com/j-a-vicente/Automatizando_a_extra-ao_Active_Directory_relatorios/tree/main/power_bi_desktop)
++ [Desenvolvimento da base de dados.](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/base_de_dados/README.md)
++ [Desenvolvimento dos scripts de extração em PowerShell.](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/README.md)
++ [Executar o tratamento dos dados.](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/tratamento_de_dados/README.md)
++ [Automatizar a extração dos dados utilizando o MS SQL Agent.](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/automatizar_extra/README.md)
++ [Desenvolvimento dos painéis no Power BI Desktop.](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/tree/main/power_bi_desktop)
