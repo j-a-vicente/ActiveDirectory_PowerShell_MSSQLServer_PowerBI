@@ -14,13 +14,13 @@ Cada script deverá extrair um objeto do Active Directory.
 
 |Script                                |Descrição                        |Tabela de destino |
 |--------------------------------------|---------------------------------|------------------|
-|[ExportADGPO.ps1](https://github.com/maxabelardo/DBActiveDirectory/blob/main/script_extracao/ExportADGPO.ps1) | Extrair as GPO | brz.gpo
-|[ExportADGroup.ps1](https://github.com/maxabelardo/DBActiveDirectory/blob/main/script_extracao/ExportADGroup.ps1) | Extrair os Grupos de usuários.|brz.group
-|[ExportADOrganizationalUnit.ps1](https://github.com/maxabelardo/DBActiveDirectory/blob/main/script_extracao/ExportADOrganizationalUnit.ps1) | Extrair as OU. | brz.ou
-|[ExportADUser.ps1](https://github.com/maxabelardo/DBActiveDirectory/blob/main/script_extracao/ExportADUser.ps1) | Extrair os usuários. |  brz.user
-|[ExportADcomputer.ps1](https://github.com/maxabelardo/DBActiveDirectory/blob/main/script_extracao/ExportADcomputer.ps1) | Extrair os computadores. | brz.computer
-|[ExportADcontact.ps1](https://github.com/maxabelardo/DBActiveDirectory/blob/main/script_extracao/ExportADcontact.ps1) | Extrair os contatos. | brz.contact
-|[ExportSTGADDomainController.ps1](https://github.com/maxabelardo/DBActiveDirectory/blob/main/script_extracao/ExportSTGADDomainController.ps1) | Extrair os controladores de domínio. | brz.domain_controller
+|[ExportADGPO.ps1](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/ExportADGPO.ps1) | Extrair as GPO | brz.gpo
+|[ExportADGroup.ps1](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/ExportADGroup.ps1) | Extrair os Grupos de usuários.|brz.group
+|[ExportADOrganizationalUnit.ps1](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/ExportADOrganizationalUnit.ps1) | Extrair as OU. | brz.ou
+|[ExportADUser.ps1](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/ExportADUser.ps1) | Extrair os usuários. |  brz.user
+|[ExportADcomputer.ps1](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/ExportADcomputer.ps1) | Extrair os computadores. | brz.computer
+|[ExportADcontact.ps1](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/ExportADcontact.ps1) | Extrair os contatos. | brz.contact
+|[ExportSTGADDomainController.ps1](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/script_extracao/ExportSTGADDomainController.ps1) | Extrair os controladores de domínio. | brz.domain_controller
 
 
 
