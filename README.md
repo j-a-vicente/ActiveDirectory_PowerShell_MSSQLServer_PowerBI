@@ -1,6 +1,7 @@
 # Automatizando a extração de dados do Active Directory para construção de relatórios.
 
-Hoje já existe várias ferramentas que auxiliam o administrador do Active Directory em sua gestão e no desenvolvimento de relatórios ou gráficos, porém os melhores softwares são pagos o que para muitas empresas é o principal problema. Este projeto tem o objetivo de ajudar aqueles que gostariam de ter as  informações do seu AD se ter que ficar rodando script, criando planilha, cruzando dados em Excel, toda vez que vão montando relatórios do seu AD, ou so estão querendo  aprender a automatizar a extração e montagem dos relatórios do Active Directory.
+Atualmente, existem diversas ferramentas disponíveis que facilitam a gestão do Active Directory (AD) para os administradores, especialmente no que diz respeito ao desenvolvimento de relatórios e gráficos. No entanto, muitas das melhores soluções são pagas, o que representa um obstáculo significativo para várias empresas.
+Diante desse cenário, o objetivo deste projeto é oferecer suporte àqueles que desejam acessar e compilar informações do seu AD sem a necessidade de executar scripts repetidamente, criar planilhas ou realizar cruzamentos de dados no Excel cada vez que precisam elaborar relatórios. Além disso, o projeto visa auxiliar aqueles interessados em aprender a automatizar o processo de extração e montagem de relatórios do Active Directory, tornando a gestão mais eficiente e menos dependente de ferramentas pagas.
 
 * ![image](https://github.com/j-a-vicente/Automatizando_a_extra_ao_Active_Directory_relatorios/blob/main/Imagens/pwb_user.PNG?raw=true)
 
