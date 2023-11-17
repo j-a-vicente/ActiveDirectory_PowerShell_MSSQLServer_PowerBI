@@ -1,4 +1,4 @@
-# Automatizando a extração de dados do Active Directory para construção de relatórios.
+# Automatizando a extração de dados do Active Directory para construção de relatórios com Power BI.
 ![](https://img.shields.io/powershellgallery/dt/powershell?&logo=Powershell&label=powershell&color=white
 )
 ![](https://img.shields.io/powershellgallery/dt/Microsoft%20SQL%20Server?&logo=Microsoft%20SQL%20Server&label=Microsoft%20SQL%20Server&color=white)
