@@ -1,4 +1,9 @@
 # Automatizando a extração de dados do Active Directory para construção de relatórios.
+![](https://img.shields.io/powershellgallery/dt/powershell?&logo=Powershell&label=powershell&color=white
+)
+![](https://img.shields.io/powershellgallery/dt/Microsoft%20SQL%20Server?&logo=Microsoft%20SQL%20Server&label=Microsoft%20SQL%20Server&color=white)
+![](https://img.shields.io/powershellgallery/dt/Microsoft%20Active%20Directory?logo=Microsoft%20Active%20Directory&label=Microsoft%20Active%20Directory&color=white)
+![](https://img.shields.io/powershellgallery/dt/Power%20BI?logo=Power%20BI&label=Power%20BI&color=white)
 
 Atualmente, existem diversas ferramentas disponíveis que facilitam a gestão do Active Directory (AD) para os administradores, especialmente no que diz respeito ao desenvolvimento de relatórios e gráficos. No entanto, muitas das melhores soluções são pagas, o que representa um obstáculo significativo para várias empresas.
 Diante desse cenário, o objetivo deste projeto é oferecer suporte àqueles que desejam acessar e compilar informações do seu AD sem a necessidade de executar scripts repetidamente, criar planilhas ou realizar cruzamentos de dados no Excel cada vez que precisam elaborar relatórios. Além disso, o projeto visa auxiliar aqueles interessados em aprender a automatizar o processo de extração e montagem de relatórios do Active Directory, tornando a gestão mais eficiente e menos dependente de ferramentas pagas.
